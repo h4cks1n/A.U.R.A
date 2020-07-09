@@ -9,6 +9,15 @@ $WHAT'S NEW
 
 ->Auto screen clearing after bootstrapping logs
 
+DOWNLOAD THE EXECUTABLE PROGRAM FROM
+-
+
+
+https://drive.google.com/drive/folders/16MBHx7D6-74NDDsK688L5eJCp5kSbGQO?usp=sharing
+
+
+
+
 
 
 *A*ssistant for
