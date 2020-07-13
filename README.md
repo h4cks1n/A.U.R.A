@@ -1,16 +1,18 @@
-AURA V2.5(SOURCE CODE)
+A.U.R.A V-2.6
 -
-$WHAT'S NEW
+What's New-
 -
 
-->Resolved the name audibility issue (Now she speaks your name as well)
+->Enhanced UI
 
-->Independant file saving requirement reminder on start-up
 
-->Boot animation with loading bar
+->Speech Engine not found error fixed
 
-->Auto screen clearing after bootstrapping logs
 
+->Auto screen clear after switching menus
+
+
+->Minor bug fixes
 DOWNLOAD THE EXECUTABLE PROGRAM FROM
 -
 
